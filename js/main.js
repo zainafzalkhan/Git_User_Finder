@@ -15,6 +15,7 @@ $(document).ready(function(){
                 data:{
                 client_id:'263e9393fb032dd60a3c',
                 client_secret:'8395182bae2bb236f46df26ad7041048c757886b',
+                sort:'created: asc',
                 per_page:10
             }
 
