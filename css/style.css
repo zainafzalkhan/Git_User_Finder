@@ -1,0 +1,31 @@
+body{
+    background: white;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.5;
+
+}
+
+#header {
+ background: #333;
+ color:#fff;
+ padding: 10px;
+ text-align: center;
+ margin-top: 5px;
+ margin-bottom: 20px
+
+}
+#container{
+    width: 85%;
+    background: #f4f4f4;
+    padding:10px;
+    margin: auto;
+    text-align: center;
+}
+input#searchUser{
+    width: 50%;
+    margin: auto;
+} 
+.avatar{
+    width: 100%;
+}
